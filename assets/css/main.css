@@ -2674,8 +2674,8 @@
 				margin-top: -1.75em;
 				position: relative;
 				height: 220px;
-				width: 450px;
-				/*width: calc(100% + 3.5em);*/
+				/*width: 450px;*/
+				width: calc(100% + 3.5em);
 			}
 
 				.features article .image img {
